@@ -37,3 +37,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+未来计划：
+1、采用云函数
+2、接入高德地图
